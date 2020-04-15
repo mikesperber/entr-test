@@ -393,7 +393,7 @@
 -1 -1 17 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 -1 -1 -1 -1 -1 0 0 0 0 0 0 0.0 0.0 0.0 1.0 1.0 1.0 0 0 0 0 0 0
--1 -1           0 483 0 4 3 94
+-1 -1           0 484 0 4 3 94
 (4
  #";; Die ersten drei Zeilen dieser "
  #"Datei wurden von DrRacket eingef\303\274gt. Sie enthalten Metadaten"
@@ -412,7 +412,8 @@
  #"ne explicit #f ((lib \"image.rkt\" \"teachpack\" \"deinprogramm\" \""
  #"sdp\")))))"
 ) 0 0 4 29 1 #"\n"
-0 0 17 3 7 #"; Intro"
+0 0 17 3 11 #"; Training "
+0 0 17 3 5 #"Intro"
 0 0 25 29 1 #"\n"
 0 0 25 29 1 #"\n"
 0 0 25 3 1 #"("
